@@ -1,0 +1,22 @@
+{
+	"schemaVersion": 1,
+	"id": "toolnecessity",
+	"version": "${version}",
+	"name": "Tool Necessity",
+	"description": "Adds block tags for missing and generic required mining levels.",
+	"authors": [
+		"haykam821"
+	],
+	"contact": {
+		"homepage": "https://github.com/haykam821/Tool-Necessity#readme",
+		"issues": "https://github.com/haykam821/Tool-Necessity/issues"
+	},
+	"mixins": [
+		"toolnecessity.mixin.json"
+	],
+	"license": "MIT",
+	"icon": "assets/toolnecessity/icon.png",
+	"depends": {
+		"fabricloader": ">=0.4.0"
+	}
+}

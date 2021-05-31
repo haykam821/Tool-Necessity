@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "io.github.haykam821.toolnecessity.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"mixins": [
+		"MiningToolItemMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
